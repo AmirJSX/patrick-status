@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Fonts */
+  --font-english: 'Roboto', sans-serif;
+  --font-persian: 'Vazirmatn', sans-serif;
+  --font-special: 'Bangers', sans-serif;
+
+  /* Colors */
+  --color-primary: #433878;
+  --color-secondary: #ffe1ff;
+  --color-tertiary: #7e60bf;
+}
+
+@custom-variant hover (&:hover);

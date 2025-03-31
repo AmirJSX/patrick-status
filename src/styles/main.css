@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+@plugin "tailwind-scrollbar";
+@reference "./variables.css";
+
+* {
+  @apply scroll-smooth select-none box-border;
+}
+
+
+html {
+    @apply bg-primary text-white bg-linear-to-r bg-fixed bg-cover from-purple-500/20 via-pink-500/20 to-purple-500/20;
+
+  &[lang='fa'] {
+    @apply font-persian;
+  }
+
+  &[lang='en'] {
+    @apply font-english;
+  }
+}
+
+

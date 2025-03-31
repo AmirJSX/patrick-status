@@ -1,0 +1,39 @@
+{
+  "home": {
+    "title": "Your Config",
+    "isEmpty": "Config cannot be empty"
+  },
+  "errors": {
+    "500": "Sorry, something went wrong",
+    "404": "Page not found",
+    "home": "Back to Home"
+  },
+  "status": {
+    "status": "Status",
+    "change": "Change",
+    "changed": "Your config has been successfully changed.",
+    "changing": "Changing...",
+    "copy": "Copy",
+    "copied": "Copied!",
+    "confirmChange": "Are you sure you want to change your config connection link? This action is irreversible and will make your previous connection link unusable.",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "expire": "Expiration Date",
+    "totalTraffic": "Total Traffic",
+    "totalUsaged": "Total Usage",
+    "trafficRemaining": "Remaining Traffic",
+    "download": "Download",
+    "upload": "Upload",
+    "active": "Active",
+    "inactive": "Inactive",
+    "online": "Online",
+    "offline": "Offline",
+    "usage": "Usage"
+  },
+  "footer": {
+    "copyright": "Created by @patrick_status_bot"
+  },
+  "meta": {
+    "description": "🔍 Check the status of your VPN subscription with Patrick Status! Enter your config and get real-time connection information. Fast, secure, and reliable."
+  }
+}
