@@ -1,7 +1,7 @@
 import { up } from 'up-fetch';
 
 const api = up(fetch, () => ({
-  baseUrl: 'PatrickStats/api/',
+  baseUrl: 'https://demo.patrickstatus.com/PatrickStats/api/',
   timeout: 3000,
 }));
 
